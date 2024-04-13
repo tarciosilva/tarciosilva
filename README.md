@@ -17,13 +17,25 @@
     Acredito que o conhecimento seja tal como o ocenao: existem partes rasas e profundas. Dessa forma, procuro saber um pouco sobre as principais tecnologias do mercado, e aprofundo meus estudos na área que escolhi pra trabalhar. Não seja um oceno inteiro com um palmo de profundidade!😁
 </p>
 
+----
+
 #### Minhas principais Tecnologias
-<div align="center" style="display:flex;">
+<br>
+<div align="center" style="display:flex;flex-wrap:wrap">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="20%" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="20%"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="20%"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="20%"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="20%"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20%"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="20%"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="20%"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="20%"/>
+          
+          
+          
+          
           
 
           
