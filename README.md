@@ -1,6 +1,6 @@
-<div align="center" style="background: center / contain no-repeat fixed url(./assets/img/tsilva_logo.svg); width:100vw;height:500px">
-    
-</div>
+<p align="center" 
+    <img src="./assets/img/tsilva_logo.svg">
+</p>
 
 
 
