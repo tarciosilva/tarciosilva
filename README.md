@@ -1,6 +1,8 @@
-<p align="center" 
-    <img src="./assets/img/tsilva_logo.svg">
+<p align="center">
+   <img src="./assets/img/tsilva_logo.svg" width="100%">
 </p>
+
+
 
 
 
