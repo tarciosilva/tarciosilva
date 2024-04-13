@@ -2,16 +2,38 @@
    <img src="./assets/img/tsilva_logo.svg" width="100%">
 </p>
 
-
-
-
-
-
-
-
+---
 
 ### Hi there 👋
+<p>
+    Olá, sou Bacharel em Ciência da Computação com especialização em análise de dados e Python, especialista em desenvolvimento Frontend com react e Backend com Python e Flask.
+</p>
 
+<p>
+    Atualmente estou focado no desenvolvimento front-end especialmente no uso de boas práticas de desenvolvimento com HTML, CSS e JS. Dedico-me també ao estudo da biblioteca REACT e dos frameworks Angular e NextJS. 
+</p>
+
+<p>
+    Acredito que o conhecimento seja tal como o ocenao: existem partes rasas e profundas. Dessa forma, procuro saber um pouco sobre as principais tecnologias do mercado, e aprofundo meus estudos na área que escolhi pra trabalhar. Não seja um oceno inteiro com um palmo de profundidade!😁
+</p>
+
+#### Minhas principais Tecnologias
+<div align="center" style="display:flex;">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="30%" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="30%"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30%"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="30%"/>
+          
+
+          
+          
+          
+</div>
+
+
+          
+<!-- 
 *teste*
 **teste**
 __teste__
@@ -65,7 +87,7 @@ switcher.addEventListener('click', () => {
 
  <div align="center" style="background: center / cover fixed url(https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif); width:100%;height:300px">
     
-</div>
+</div> -->
 
 <!-- <div align="center">
     <img src="https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif" width="90%" height="300px" style="background: fixed">
