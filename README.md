@@ -1,3 +1,13 @@
+<div align="center" style="background: center / contain no-repeat fixed url(./assets/img/tsilva_logo.svg); width:100vw;height:500px">
+    
+</div>
+
+
+
+
+
+
+
 ### Hi there 👋
 
 *teste*
@@ -17,6 +27,8 @@ ___teste___
 
 ### imagem embeded
 ![exemplo imagem embeded](https://conteudo.imguol.com.br/c/entretenimento/70/2016/04/22/21abr2016---ate-a-nasa-divulgou-uma-foto-da-nebulosa-do-caranguejo-remanescente-de-supernova-vista-do-telescopio-do-observatorio-espacial-herschel-alguem-pode-ver-prince-tocando-sua-guitarra-1461328809241_v2_900x506.jpg)
+
+
 
 ### exemplo de código em bloco
 ```
@@ -45,6 +57,19 @@ switcher.addEventListener('click', () => {
 | cabecalho 1 | cabecalho 2 |
 |-------------|-------------|
 |   texto 1   |    texto 2  |
+
+
+### Gif do gato
+
+ <div align="center" style="background: center / cover fixed url(https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif); width:100%;height:300px">
+    
+</div>
+
+<!-- <div align="center">
+    <img src="https://i.pinimg.com/originals/35/98/8b/35988bf09ce2be958e36f4bc8f4575d1.gif" width="90%" height="300px" style="background: fixed">
+</div> -->
+
+
 
 
 <!--
