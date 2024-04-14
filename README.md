@@ -4,7 +4,7 @@
 
 ---
 
-### Hi there 👋
+### *Hi there 👋*
 <p>
     Olá, sou Bacharel em Ciência da Computação com especialização em análise de dados e Python, especialista em desenvolvimento Frontend com react e Backend com Python e Flask.
 </p>
@@ -19,7 +19,7 @@
 
 ----
 
-#### Minhas principais Tecnologias
+### *Minhas principais Tecnologias*
 <br>
 <div align="center" style="display:flex;flex-wrap:wrap; gap:1rem">
 
@@ -31,21 +31,34 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="75px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="75px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="75px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="75px"/>
-          
-          
-          
-          
-          
-          
-
-          
-          
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="75px"/>        
 </div>
 
+----
+### *Certificados*
 
-          
+
+| certificado | link        |
+|-------------|-------------|
+|   Angular   |    [Angular-Certificate](https://hermes.dio.me/certificates/cover/XQHBRLNG.jpg)  |
+|Code Update TQI - Backend com Kotlin e Java | [Kotlin](https://hermes.dio.me/certificates/cover/F1480527.jpg)
+|Desenvolvimento Java com Cloud AWS| [Java & AWS](https://hermes.dio.me/certificates/cover/F926E11B.jpg)
+|Alura Formations|[Alura](https://cursos.alura.com.br/user/tarciopsilva/fullCertificate/96245476dd1044ae698bbadefb482b13)
+|Oracle Next Education F2 T5 Front-end|[Oracle - Frontend](https://cursos.alura.com.br/program/certificate/fe0f252d-6c4a-40f8-8099-1fbab2e92c3c?lang=pt_BR)
+|SQL com MySQL Server da Oracle|[SQL](https://cursos.alura.com.br/degree/certificate/9356f8c3-72f9-4270-8805-d1b7450c36f6?lang=pt_BR)
+|Oracle Cloud Infrastructure - ONE |[OCI](https://cursos.alura.com.br/degree/certificate/32cb1e34-5d08-4c7a-8947-5393ee97aae7?lang=pt_BR)
+|React T5 - ONE|[REACT](https://cursos.alura.com.br/degree/certificate/155540e3-50e4-414f-a657-768b33a8e2fb?lang=pt_BR)
+|Alura Formations II|[Alura II](https://cursos.alura.com.br/user/tarciopereirasilva/fullCertificate/7787de22136484bcb89c205a606c9225)
+
+----
+
+### Git Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarciosilva&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarciosilva&hide_progress=false)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/tarciosilva/github-readme-stats)
 <!-- 
 *teste*
 **teste**
